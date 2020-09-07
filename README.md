@@ -5,7 +5,7 @@ Course 31761 given at DTU
 
 The project titles are:
 - *Day-ahead Market in DK1 and DK2*
-- *Renewble market participant strategies*
+- *Renewable market participant strategies*
 - *Renewable energy forecasting - Let's compete!* (Final result: 11/44, with an average RMSE of 13.08% against 12.01% for the winning team)
 
 DTU, Spring 2020
